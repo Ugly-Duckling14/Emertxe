@@ -1,0 +1,75 @@
+ 1. What is the command to find your current shell?
+    a. echo $BASH
+    b. echo $SHELL
+    c. echo $SH
+    d. echo $shell
+ 2. Which command will give OS details on Linux
+    a. sysinfo -l
+    b. sysinfo -a
+    c. uname -a
+    d. ifconfig
+ 3. Which one causes an error while assigning a variable in scripting?
+    a. $COUNT=$PATH
+    b. COUNT=$PATH
+    c. COUNT="$PATH"
+    d. COUNT='$PATH'
+ 4. How to print or access VALUE of shell variables?
+    a. @
+    b. $
+    c. *
+    d. #
+ 5. How can you run two commands in shell, and print the output of both the command?
+    a. ls & date
+    b. ls | date
+    c. ls ; date
+    d. ls , date
+ 6. How to change the permission to read only
+    a. chmod 700 file
+    b. chmod 600 file
+    c. chmod 400 file
+    d. chmod 200 file
+ 7. What is the o/p of this command echo "expr 6 + 3"
+    a. None
+    b. 9
+    c. expr 6 + 3 is printed
+    d. Syntax Error
+ 8. What does this do? head -15 /etc/hosts
+    a. Prints first 15 lines from the file
+    b. Print everything except the last 15 lines from the file
+    c. Prints the first 15th character from the file
+    d. prints the last 15 lines from the file
+ 9. What does echo $0 (zero) print in a script?
+    a. It prints the number of command line arguments
+    b. It prints all the command line arguments
+    c. It prints the current files in the present working directory
+    d. It prints the current script name
+ 10. Which operator will you use for comparing strings
+    a. -e
+    b. -eq
+    c. =
+    d. -ne
+ 11. How do you switch to previous working directory
+    a. cd  -
+    b. cd /
+    c. cd  ..
+    d. cd ~
+ 12. How to substitute xyz by abc globally in a file in Vi
+    a. :%s/xyz/abc
+    b. :%s/xyz/abc/g
+    c. :r/xyz/abc
+    d. /xyz/abc/g
+ 13. Command for save as in Vi
+    a. Ctrl-S filename
+    b. Esc mode { :w <filename>}
+    c. Esc mode { :Z filename}
+    d. Esc :q
+ 14. Delete the content from current cursor position to beginning of the line
+    a. d^
+    b. dd
+    c. d$
+    d. de
+ 15. How do you find out your own username?
+    a. whoami
+    b. username
+    c. uname -r
+    d. userid

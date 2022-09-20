@@ -1,0 +1,26 @@
+    Program for taking exam through terminal
+
+Files required 
+
+1. index.sh
+2. user.csv
+3. password.csv
+4. question.txt
+5. correct_ans.txt
+
+IMPORTANT NOTE:- All files are required to be in one folder.
+
+steps to run program,
+
+1) Create the required files like : user.csv,password.csv,question.txt,correct_ans.txt.
+2) Add the questions with options.
+     NOTE :-options much contain 4 options for each questions.
+3) Add the correct answer of the options in correct_ans.txt.
+     NOTE :- answer should be added line by line 
+        ex:- b
+             c
+             a
+             c
+4) Run the program in terminal by typing the following command.
+    bash index.sh
+5) Done.
